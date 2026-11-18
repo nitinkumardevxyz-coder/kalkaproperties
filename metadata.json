@@ -1,0 +1,6 @@
+{
+  "name": "Kalka Properties — Real Estate & Business Consulting",
+  "description": "Trusted property consulting, residential & commercial sales, leasing, RERA documentation, and loan facilitation in Madangir, New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
